@@ -1,7 +1,7 @@
 API_ID=16553400
 API_HASH=e0ca5f5bf7d59b96c8abd76cc255deb2
 BOT_TOKEN=5892195204:AAH3f_eu36WA6Ol8VJXybAeA6axZvE5HQxg
-MONGO_DB_URI=
+MONGO_DB_URI=mongodb+srv://itsmenj:<itsmenj>@cluster0.9puuqif.mongodb.net/?retryWrites=true&w=majority
 OWNER_ID=5591620770
 LOG_GROUP_ID=-1001736217268
 MUSIC_BOT_NAME=🇹‌🇴‌🇳‌🇾‌ 🇸‌🇹‌🇦‌🇷‌🇰‌
